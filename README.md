@@ -5,7 +5,7 @@ With SafeShares, these people are able to not only eliminate the middlemen, the 
 # HOW WE WORK
 ## Predictions
 
-Our Tensorflow-based predictive AI algorithm is able to probe past data and trends of a pre-made dataset to be able to estimate the direction that the stock or the share seems to be heading, so that everyone can make sure that their investments becomes profitable as soon as possible. Future Gains, no Pains.
+Our Pytorch-based predictive AI algorithm is able to probe past data and trends of a pre-made dataset to be able to estimate the direction that the stock or the share seems to be heading, so that everyone can make sure that their investments becomes profitable as soon as possible. Future Gains, no Pains.
 
 ## Safety
 

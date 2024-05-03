@@ -3,7 +3,7 @@ Every year, hundreds of thousands of people fall victim to stockmarket, cryptocu
 With SafeShares, these people are able to not only eliminate the middlemen, the brokers, then they are not only able to trade their money safely, but also, with our stock-market prediction algorithms, in a guaranteed success. SafeShares; Stock Markets, Simplified
 
 # HOW WE WORK
-## Prdeictions
+## Predictions
 
 Our Tensorflow-based predictive AI algorithm is able to probe past data and trends of a pre-made dataset to be able to estimate the direction that the stock or the share seems to be heading, so that everyone can make sure that their investments becomes profitable as soon as possible. Future Gains, no Pains.
 

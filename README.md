@@ -14,5 +14,5 @@ Our code is end-to-end encrypted, where no one can access what you do. Therefore
 # HOW TO USE
 
 1. Download the file
-2. Put `code.py` and `AAPL.csv` in one folder
+2. Put `code.py`, `pandas_technical_indicators`, and `AAPL.csv` in one folder
 3. Run `code.py`
